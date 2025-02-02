@@ -1,0 +1,45 @@
+﻿Nom du service;Type de tarif;Libellé tarif;Montant
+TAN;Tarif ticket;TAN - ticket invité (jour supplementaire);3.2
+TAN;Tarif carnet;TAN - carnet de 10 tickets;17.0
+TAN;Tarification Solidaire;TAN – formule illimitée  - 26 ans si  351 < QF < 500;23.8
+TAN;Tarification Solidaire;TAN – formule illimitée  - 12 ans si   501 < QF < 600;65.0
+TAN;Tarification Solidaire;TAN – formule illimitée  + 60 ans si   501 < QF < 600;145.0
+TAN;Tarification Solidaire;TAN – formule illimitée  - 18 ans si   751 < QF < 900;157.5
+TAN;Tarif ticket;TAN -  ticket unité vendu à bord;2.5
+TAN;Tarif ticket;TAN -  ticket unité -  Formule sur Mesure;1.6
+TAN;Tarif ticket;TAN - ticket invité - 1 jour;6.2
+TAN;Tarif abonnement;TAN - Billet mensuel plein tarif;60.0
+TAN;Tarif abonnement;TAN - Billet mensuel + de 60 ans;33.0
+TAN;Tarif abonnement;TAN - Formule illimitée - de 18 ans;225.0
+TAN;Tarification Solidaire;TAN – formule illimitée  - 26 ans si  QF < 350;0.0
+TAN;Tarification Solidaire;TAN – formule illimitée  + 60 ans si  351 < QF < 500;29.0
+TAN;Tarification Solidaire;TAN – formule illimitée  - 26 ans si   501 < QF < 600;119.0
+TAN;Tarification Solidaire;TAN – formule illimitée  - 12 ans si  751 < QF < 900;91.0
+TAN;Tarif ticket;TAN – Billet groupe scolaire;1.03
+TAN;Tarif abonnement;TAN - Billet mensuel - de 26 ans;36.0
+TAN;Tarif abonnement;TAN - Formule illimitée - de 26 ans;238.0
+TAN;Tarification Solidaire;TAN – formule illimitée si QF < 350;0.0
+TAN;Tarif ticket;TAN -  ticket unité;1.8
+TAN;Tarif abonnement;TAN - Billet mensuel - de 12 ans;16.0
+TAN;Tarif abonnement;TAN - Formule illimitée - de 12 ans;130.0
+TAN;Tarification Solidaire;TAN – formule illimitée  - 18 ans si  QF < 350;0.0
+TAN;Tarification Solidaire;TAN – formule illimitée  + 60 ans si  QF < 350;0.0
+TAN;Tarification Solidaire;TAN – formule illimitée si  501 < QF <750;157.5
+TAN;Tarification Solidaire;TAN – formule illimitée  - 26 ans si   751 < QF < 900;166.6
+TAN;Tarif ticket;TAN - ticket 24h - 4 pers;12.0
+TAN;Tarif abonnement;TAN - Billet mensuel tutti combiné;
+TAN;Tarif abonnement;TAN - Formule illimitée;525.0
+TAN;Tarification Solidaire;TAN – formule illimitée  - 12 ans si  QF < 350;0.0
+TAN;Tarification Solidaire;TAN – formule illimitée  + 60 ans si   751 < QF < 900;203.0
+TAN;Tarif ticket;TAN - ticket 24h;6.4
+TAN;Tarif ticket;TAN - ticket navette aeroport;10.0
+TAN;Tarif carnet;TAN – Ticket Groupe Scolaire;10.3
+TAN;Tarif abonnement;TAN - Billet mensuel - de 18 ans;28.0
+TAN;Tarif abonnement;TAN – Formule illimitée + de 60 ans;290.0
+TAN;Tarification Solidaire;TAN – formule illimitée si  351 < QF < 500;52.5
+TAN;Tarification Solidaire;TAN – formule illimitée si  751 < QF < 900;367.5
+TAN;Tarif ticket;TAN  - ticket unité tarif réduit -  Formule sur Mesure;1.03
+TAN;Tarif abonnement;TAN - Formule illimitée entreprise;627.0
+TAN;Tarification Solidaire;TAN – formule illimitée  - 12 ans si  351 < QF < 500;13.0
+TAN;Tarification Solidaire;TAN – formule illimitée  - 18 ans si  351 < QF < 500;22.5
+TAN;Tarification Solidaire;TAN – formule illimitée  - 18 ans si   501 < QF < 600;112.5
